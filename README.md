@@ -1,5 +1,3 @@
-Below is an example README in Markdown for a hypothetical **FlutterSwiftUI** library that includes emojis, MIT License information, and sections for the various new components:
-
 ---
 
 # FlutterSwiftUI 🚀
