@@ -137,7 +137,7 @@ Integrate **FlutterSwiftUI** using Swift Package Manager by adding the following
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/yourusername/FlutterSwiftUI.git", from: "1.0.0")
+    .package(url: "https://github.com/miracle101000/FlutterSwiftUI.git", from: "1.0.0")
 ]
 ```
 
